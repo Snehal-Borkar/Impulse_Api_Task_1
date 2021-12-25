@@ -6,7 +6,7 @@ How to Run-:
     
     Run surver :-py manage.py runserver
 	
-For resting can use any HTTP client ,I tested on Postman
+For testing can use any HTTP client ,I tested on Postman
 
 To post data
 ![image](https://user-images.githubusercontent.com/80601284/147390919-5b579c99-8cc1-42ee-80d9-c29e8eb6dfdb.png)
