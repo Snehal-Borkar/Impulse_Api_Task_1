@@ -1,4 +1,6 @@
 This project only Need Django installed.
+
+
 Run Server :-Inside Project root directory run command :   Python manage.py runserver 
 
 My Assumption :
